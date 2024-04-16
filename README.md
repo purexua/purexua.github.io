@@ -1,2 +1,0 @@
-# purexua.github.io
-test
